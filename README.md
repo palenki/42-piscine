@@ -2,19 +2,15 @@
 
 This repository contains projects developed during the 42 Piscine and Piscine Reloaded at 42 São Paulo.
 
-## 📚 Overview
+## Overview
 
-The 42 Piscine is an intensive selection program focused on:
-- C programming
-- Unix system fundamentals
-- Shell usage
-- Problem solving under constraints
+The 42 Piscine is an intensive selection program based on peer to peer learning, programming in C, shell and Unix fundamentals.
 
-## 📁 Structure
+## Structure
 
 - piscine/
 - piscine-reloaded/
 
-## 🎯 Goal
+## Notes
 
-Build strong foundations in low-level programming and prepare for the core curriculum at 42.
+This repo is mainly for tracking my progress and preparation for the core curriculum at 42.
