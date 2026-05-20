@@ -8,8 +8,8 @@ The 42 Piscine is an intensive selection program based on peer to peer learning,
 
 ## Structure
 
-- piscine/
-- piscine-reloaded/
+- piscine/ → my first contact with C programming fundamentals
+- piscine-reloaded/ → reinforcement exercises and deeper practice
 
 ## Notes
 
